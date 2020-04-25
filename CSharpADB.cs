@@ -8,10 +8,10 @@ using Ionic.Zip;
 
 namespace RNDN.CSharpADB {
     public class CSharpADB {
-//Here are ADB and Fastboot packages paths
+	//Here are ADB and Fastboot packages paths
         public string adbPath;
-        public string fbPath
-//cmd output
+        public string fbPath;
+	//cmd output
         public string LastStdout;
         public string LastStderr;
         public class InvalidFileException : Exception {
