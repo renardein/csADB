@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>csADB</id>
+    <version>1.0.0</version>
+    <authors>renardein</authors>
+    <description>Package Description</description>
+    <copyright>renardein</copyright>
+    <repository url="https://github.com/renardein/csADB" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Ionic.Zip" version="1.9.1.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Users\renardein\source\repos\csADB\csADB\bin\Release\netcoreapp3.1\csADB.dll" target="lib\netcoreapp3.1\csADB.dll" />
+  </files>
+</package>

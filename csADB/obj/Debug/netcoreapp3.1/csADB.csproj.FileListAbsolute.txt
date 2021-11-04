@@ -1,0 +1,10 @@
+D:\Users\renardein\source\repos\csADB\csADB\bin\Debug\netcoreapp3.1\csADB.deps.json
+D:\Users\renardein\source\repos\csADB\csADB\bin\Debug\netcoreapp3.1\csADB.dll
+D:\Users\renardein\source\repos\csADB\csADB\bin\Debug\netcoreapp3.1\csADB.pdb
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.csproj.AssemblyReference.cache
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.AssemblyInfoInputs.cache
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.AssemblyInfo.cs
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.csproj.CoreCompileInputs.cache
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.dll
+D:\Users\renardein\source\repos\csADB\csADB\obj\Debug\netcoreapp3.1\csADB.pdb

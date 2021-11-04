@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ionic.Zip/1.9.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/Ionic.Zip.dll": {}
+        },
+        "runtime": {
+          "lib/Ionic.Zip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ionic.Zip/1.9.1.8": {
+      "sha512": "E77NU0+mXFsiJG/CikkINVD/2ugIgjqRZf41pixpAArRzOUrn/2gCL4G2PBREvRVOy+wU8ZbG/UBLcH4Tkw1gg==",
+      "type": "package",
+      "path": "ionic.zip/1.9.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ionic.zip.1.9.1.8.nupkg.sha512",
+        "ionic.zip.nuspec",
+        "lib/Ionic.Zip.dll",
+        "nuget.bat"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Ionic.Zip >= 1.9.1.8"
+    ]
+  },
+  "packageFolders": {
+    "D:\\Users\\renardein\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Users\\renardein\\source\\repos\\csADB\\csADB\\csADB.csproj",
+      "projectName": "csADB",
+      "projectPath": "D:\\Users\\renardein\\source\\repos\\csADB\\csADB\\csADB.csproj",
+      "packagesPath": "D:\\Users\\renardein\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\renardein\\source\\repos\\csADB\\csADB\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "D:\\Users\\renardein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Ionic.Zip": {
+            "target": "Package",
+            "version": "[1.9.1.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Ionic.Zip 1.9.1.8\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Ionic.Zip",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
